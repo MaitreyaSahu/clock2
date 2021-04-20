@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    overflow: hidden;
+    background: #132c33;
+    background: linear-gradient(#132c33, #2d6c7d);
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+  }
+  
+  svg {
+    transform: scale(1.7);
+  }
+  
+  .filler {
+    -background: #132c33;
+    position: absolute;
+    bottom: 50%;
+    top: 0;
+    left: 0;
+    right: 0;
+  }

@@ -1,15 +1,14 @@
 body {
-    height: 100vh;
+    
     overflow: hidden;
     background: #132c33; 
     background: linear-gradient(#132c33, #2d6c7d);
     display: flex;
-    justify-content: center;
-    margin-top: 10rem;
+    justify-content:center;
+    align-items: center;
   }
   
   svg {
-    transform: scale(1.7);
   }
   
   .filler {
